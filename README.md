@@ -3,7 +3,7 @@
 ---
 
 ### 🧩 What You’ll Find Here
-This GitHub portfolio is a collection of my **practical cybersecurity projects**, **IT administration scripts**, and **security automation tools** — all built and documented for real-world application.
+This GitHub portfolio is a collection of my **practical cybersecurity projects**, **IT administration scripts**, and **security automation tools** — all built and documented for training and real-world application.
 
 ### 🔐 Cybersecurity & Ethical Hacking
 - 🐧 [Linux Essentials](https://github.com/danieluyo4tech/linux-essentials) — practical Linux fundamentals, command-line recipes, user & permission management, and starter hardening steps for servers and workstations.  
