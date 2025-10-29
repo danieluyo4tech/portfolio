@@ -6,6 +6,7 @@
 This GitHub portfolio is a collection of my **practical cybersecurity projects**, **IT administration scripts**, and **security automation tools** — all built and documented for training and real-world application.
 
 ### 🔐 Cybersecurity & Ethical Hacking
+- 🐧 [Lab setup](https://github.com/danieluyo4tech/linux-essentials) — practical Linux fundamentals, command-line recipes, user & permission management,
 - 🐧 [Linux Essentials](https://github.com/danieluyo4tech/linux-essentials) — practical Linux fundamentals, command-line recipes, user & permission management, and starter hardening steps for servers and workstations.  
 - 🧭 [Networking Labs](https://github.com/danieluyo/networking-labs) — hands-on labs for subnetting, routing, switching, VLANs, packet capture analysis, and basic network troubleshooting playbooks.
 - 🧩 [Cybersecurity Labs](https://github.com/danieluyo/cybersecurity-labs) — attack-detection simulations (Snort, Suricata, Wireshark)
