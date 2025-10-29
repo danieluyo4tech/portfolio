@@ -1,12 +1,4 @@
-# 👋 Hi, I'm Daniel Uyo
-
-💻 **Cybersecurity & IT Specialist | Ethical Hacker | Trainer @ Fixlab Academy**
-
----
-
-### 🧠 About Me
-I’m passionate about securing systems, building attack-defense labs, and training the next generation of ethical hackers.  
-With experience across Linux administration, network security, and incident response, I combine hands-on technical work with teaching and automation.
+# 👋 Hi, Welcome 
 
 ---
 
