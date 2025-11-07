@@ -20,7 +20,7 @@ This GitHub portfolio is a collection of my **practical cybersecurity projects**
 ### 🧑‍💻 Python for Cybersecurity
 - 💻 [Python Security Tools](https://github.com/danieluyo/python-security-tools) — small tools and scripts for automation
 
-### 🔍 Network Pentesting
+### 🔍 Advanced Specialization
 - 🧭 [Network Pentesting Labs](https://github.com/danieluyo/network-pentesting) — end-to-end network tests: recon, enumeration, service discovery, and safe exploit demos (lab-only).  
 - 🧩 [Packet Analysis & Detection](https://github.com/danieluyo/packet-analysis) — Wireshark walkthroughs, PCAP examples, protocol forensics and IDS/Suricata detection recipes.  
 - 📡 [Wireless & Infrastructure Pentest](https://github.com/danieluyo/wireless-infra-pentest) — Wi-Fi assessments, rogue AP simulations, switch/router misconfigs and mitigation checklists.
