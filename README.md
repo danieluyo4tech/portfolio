@@ -39,7 +39,7 @@ This GitHub portfolio is a collection of my **practical cybersecurity projects**
 
 ### 🌐 Connect With Me
 📧 Email: danieluyo4tech@gmail.com  
-🌐 Website: [https://fixlabtech.com](https://fixlabtech.com)  
+🌐 Website: [https://danieluyo.fixlabtech.com](https://fixlabtech.com)  
 🔗 LinkedIn: [https://linkedin.com/in/danieluyo](https://linkedin.com/in/danieluyo)
 
 ---
